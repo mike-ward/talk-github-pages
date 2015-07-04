@@ -13,7 +13,7 @@ style: style.css
 --
 ### What are GitHub Pages?
 
-- Web Pages hosted directly from your GitHub repository 
+- Web pages hosted directly from your GitHub repository 
 
 - Just edit, push, and your changes are live
 
@@ -46,7 +46,7 @@ http://status.github.com
 --
 ### 3. Use your own domain name
 
-- Update you domain host to point at GitHub
+- Update your domain host to point at GitHub
 
 - Add a file with your domain name
 
@@ -68,9 +68,13 @@ http://status.github.com
 ### Demo - How I Publish Blog Posts
 
 1. Add some insightful content to a file
+
 2. Save file in the _posts folder
+
 3. `git cm "my insightful new blog post"`
+
 4. `git push`
+
 5. Stand back and revel in the glory of my blog post
 
 --
@@ -96,3 +100,51 @@ git commit -m "Initial commit"
 git push
 http://username.github.io
 ```
+
+--
+### Generate a Site
+
+1. Create a new repository named username.github.io
+```
+where username is your username
+```
+
+2. Go to Settings
+
+   ![auto-generate](auto-generate.png)
+
+--
+### Clone an existing site
+
+- <http://www.github.com/barryclark/jekyll-now>
+
+
+--
+### Use a designer theme
+
+- <http://jekyllthemes.org/>
+
+- <http://www.jekyllthemes.net/>
+
+- <http://themeforest.net/category/static-site-generators/jekyll>
+
+- <http://richbray.me/frap/>
+
+--
+### References
+
+- [Build A Blog With Jekyll And GitHub Pages - Smashing Magazine](<http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/>)
+
+- [Jekyll](<http://jekyllrb.com/>) 
+
+--
+### Demo Site (http://SalineCrew.org)
+
+- _.config.yml
+- site structure
+- _layouts
+- _sass
+- Liquid templating
+- achive
+- site map
+- xml feed
