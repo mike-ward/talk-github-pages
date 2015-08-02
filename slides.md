@@ -29,8 +29,8 @@ style: style.css
 
 - Pages are static HTML
 
-- GitHub infrastructure is fast  
-http://status.github.com
+- GitHub infrastructure is fast <http://status.github.com>  
+  [How Fast are GitHub Pages](<https://www.jeremymorgan.com/blog/programming/how-fast-are-github-pages/>)
 
 - Caching
 
@@ -80,7 +80,7 @@ http://status.github.com
 --
 ### http://pages.github.com
 
-1. Create a new repository named username.github.io
+1. Create a new repository named **username**.github.io
 ```
 where username is your username
 ```   
@@ -118,6 +118,9 @@ where username is your username
 
 - <http://www.github.com/barryclark/jekyll-now>
 
+- <http://jekyllbootstrap.com/>
+
+- <https://wordpress.org/plugins/jekyll-exporter/>
 
 --
 ### Use a designer theme
@@ -136,6 +139,9 @@ where username is your username
 - [Build A Blog With Jekyll And GitHub Pages - Smashing Magazine](<http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/>)
 
 - [Jekyll](<http://jekyllrb.com/>) 
+
+- [A Guide to Using GitHub Pages](<https://www.thinkful.com/learn/a-guide-to-using-github-pages/>)
+
 
 --
 ### Demo Site (http://SalineCrew.org)
